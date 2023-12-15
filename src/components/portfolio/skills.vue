@@ -25,8 +25,14 @@
         <li class="list-inline-item" title="Python">
           <i class="fab fa-python"></i>
         </li>
+        <li class="list-inline-item" title="ReactJs">
+          <i class="fab fa-node"></i>
+        </li>
         <li class="list-inline-item" title="VueJs">
           <i class="fab fa-vuejs"></i>
+        </li>
+        <li class="list-inline-item" title="ReactJs">
+          <i class="fab fa-react"></i>
         </li>
         <li class="list-inline-item" title="Bash">
           <i class="fa fa-terminal h1"></i>
@@ -35,27 +41,31 @@
       <div class="subheading mb-3">Workflow</div>
       <ul class="fa-ul mb-0">
         <li>
-          <i class="fa-li fa fa-check"></i> Single Page Applications | Frontend
-          &bull;
-          <strong>VueJS</strong>
+          <i class="fa-li fa fa-check"></i> Backend Development &bull;
+          <strong>Express | Fastify | FastAPI | Flask | Django</strong>
         </li>
         <li>
-          <i class="fa-li fa fa-check"></i> Backend Using Python Stacks &bull;
-          <strong>Flask | Django</strong>
+          <i class="fa-li fa fa-check"></i> Database &bull;
+          <strong>PostgreSQL | MongoDB | mySQL | MSSQL | SQLite</strong>
+        </li>
+        <li>
+          <i class="fa-li fa fa-check"></i> Single Page Applications | Frontend
+          &bull;
+          <strong>ReactJs | VueJS</strong>
         </li>
         <li>
           <i class="fa-li fa fa-check"></i> Scripting & Automation &bull;
           <strong>Bash | Python</strong>
         </li>
         <li>
-          <i class="fa-li fa fa-check"></i> Graphic Designing | Logo Works
+          <i class="fa-li fa fa-check"></i> UI/UX | Graphic Designing | Logos
           &bull;
-          <strong>Adobe Illustrator</strong>
+          <strong>Figma | Adobe Illustrator</strong>
         </li>
         <li>
-          <i class="fa-li fa fa-check"></i> Agile Development & Prototyping
+          <i class="fa-li fa fa-check"></i> Agile Development Tools
           &bull;
-          <strong>Figma</strong>
+          <strong>Jira | Teamwork | Trello | Notion</strong>
         </li>
       </ul>
     </div>

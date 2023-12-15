@@ -24,8 +24,9 @@
       </div>
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
         <div class="resume-content">
-          <h3 class="mb-0">Lotus High School</h3>
-          <div class="subheading mb-3 text-darker">Higher Education</div>
+          <h3 class="mb-0">Lotus Higher Secondary School</h3>
+          <div class="subheading mb-3 text-darker">High School</div>
+          <p class="font-weight-bold">English Medium</p>
         </div>
         <div class="resume-date text-md-right">
           <span class="text-darker font-weight-bold">2002 - 2014</span>

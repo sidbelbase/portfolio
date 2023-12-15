@@ -5,6 +5,13 @@
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
         <div class="resume-content">
           <h3 class="mb-5">Experiences</h3>
+          <h4 class="mb-0">Python Developer</h4>
+          <div class="subheading mb-3 text-darker">Bottle Technology Pvt Ltd</div>
+          <p class="font-weight-bold">July 2021 - Present</p>
+        </div>
+      </div>
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-4">
+        <div class="resume-content">
           <h4 class="mb-0">Senior Graphic Designer</h4>
           <div class="subheading mb-3 text-darker">Eagle Eye IT Pvt Ltd</div>
           <p class="font-weight-bold">July 2018 - January 2019</p>

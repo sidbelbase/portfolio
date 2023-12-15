@@ -10,12 +10,11 @@
       <div class="normal mb-4">
         <p class="mb-0">
           <span class="mr-1">I seek to contribute to this world with my</span>
-          <span class="text-darker mr-1">algorithms</span>
-          <span class="mr-1">and</span>
-          <span class="text-darker">abstractions</span>
-          <span>.</span>
+          <span class="text-darker mx-1">algorithms</span>
+          <span>and</span>
+          <span class="text-darker mx-1">abstractions.</span>
         </p>
-        <p class="text-modern mt-4">Open Source Developer · Full Stack Developer</p>
+        <p class="text-modern mt-4">FullStack Developer &middot; Python & NodeJs</p>
       </div>
 
       <div class="icons">
