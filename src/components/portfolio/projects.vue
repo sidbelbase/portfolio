@@ -55,7 +55,7 @@ export default {
   setup() {
     const repo = reactive({
       projects: [],
-      url: "https://api.github.com/users/sidbelbase/repos",
+      url: "https://api.github.com/users/sarojbelbase/repos",
     });
 
     // Usage : [1] pluralize(2, 'apple') >> 'apples'

@@ -1,10 +1,10 @@
 <template>
               <nav class="navbar navbar-expand-lg navbar-dark darker fixed-top" id="sideNav">
             <a class="navbar-brand" href="#page-top">
-                <span class="d-block d-lg-none">Siddharth Belbase</span>
+                <span class="d-block d-lg-none">Saroj Belbase</span>
                 <span class="d-none d-lg-block">
                     <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="../../assets/img/profile.jpg"
-                        alt="sidbelbase">
+                        alt="sarojbelbase">
                 </span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"

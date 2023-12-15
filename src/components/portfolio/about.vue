@@ -3,7 +3,7 @@
     <div class="w-100">
       <p class="normal mb-1 text-darker">Hi, I am</p>
       <h1 class="display-1 font-weight-bold mb-0">
-        Siddharth
+        Saroj
         <span class="text-darker">Belbase</span>
         &
       </h1>
@@ -19,19 +19,19 @@
       </div>
 
       <div class="icons">
-        <a href="https://github.com/sidbelbase">
+        <a href="https://github.com/sarojbelbase">
           <i class="fab fa-github"></i>
         </a>
-        <a href="https://behance.net/sidbelbase">
+        <a href="https://behance.net/sarojbelbase">
           <i class="fab fa-behance"></i>
         </a>
-        <a href="https://linkedin.com/in/sidbelbase">
+        <a href="https://linkedin.com/in/sarojbelbase">
           <i class="fab fa-linkedin-in"></i>
         </a>
-        <a href="https://instagram.com/sidbelbase">
+        <a href="https://instagram.com/whoisevensaroj">
           <i class="fab fa-instagram"></i>
         </a>
-        <a href="https://twitter.com/sidbelbase">
+        <a href="https://twitter.com/whoisevensaroj">
           <i class="fab fa-twitter"></i>
         </a>
       </div>
