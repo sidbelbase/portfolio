@@ -9,7 +9,7 @@
           <p class="font-weight-bold">Computer Science & Information Technology</p>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-darker font-weight-bold">2016 - 2020</span>
+          <span class="text-darker font-weight-bold">2016 - 2021</span>
         </div>
       </div>
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
